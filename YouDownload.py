@@ -3,6 +3,7 @@ import pytube
 #Add the URL of the video you wish to download in the text file named "videos"
 #Separate each URL line by line
 #Once you have added all the videos you wish to download, run the program
+#Create a folder named "Videos" without the quotes and make sure it is in the same directory as the two files YouDownload.py and videos.txt
 #The files you wish to download will appear inside the folder named "Videos"
 
 
